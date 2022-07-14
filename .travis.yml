@@ -11,4 +11,3 @@ jobs:
     - dist: bionic
     - dist: focal
     - dist: jammy
-Footer
